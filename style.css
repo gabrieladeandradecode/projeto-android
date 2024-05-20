@@ -26,6 +26,10 @@ header{
     box-shadow: 1px 2px 1px rgba(0, 0, 0, 0.496);
 }
 
+header > p{
+    padding-bottom: 40px;
+}
+
 #curiosidades{
     font-family: "Bebas Neue";
     font-size: 48px;
